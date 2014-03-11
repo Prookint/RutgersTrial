@@ -68,7 +68,7 @@ public class DeviceView extends Fragment {
 	
 	private static final String TAG = "DeviceView";
 	private Point3D prevV;
-	
+	//THIS IS BUG FIX V1.1
   // Sensor table; the iD corresponds to row number
 	private static final int ID_OFFSET = 0;
   private static final int ID_KEY = 0;
