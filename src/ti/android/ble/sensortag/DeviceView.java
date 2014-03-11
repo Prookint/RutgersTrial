@@ -65,7 +65,7 @@ import android.widget.TextView;
 //author cagdas karatas
 // Fragment for Device View
 public class DeviceView extends Fragment {
-	
+	//I am coding for feature 1
 	private static final String TAG = "DeviceView";
 	private Point3D prevV;
 	
