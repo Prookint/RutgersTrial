@@ -62,7 +62,7 @@ import android.widget.ScrollView;
 import android.widget.TableLayout;
 import android.widget.TableRow;
 import android.widget.TextView;
-
+asdasdasd asdasdasd
 // Fragment for Device View
 public class DeviceView extends Fragment {
 	
